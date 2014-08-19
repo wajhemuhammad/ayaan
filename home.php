@@ -6,14 +6,7 @@
             <div class="box"> <a href="http://elections.insaf.pk/Endorsements.aspx" class="five"><img style="display: inline-block; width: 100%; z-index: 10;" src="files/box-5-c.jpg" alt="" class="growImage"></a></div>
             <div class="box noRMar"> <a href="http://www.fundyourtsunami.com/" target="_blank" class="six"><img style="display: inline-block; width: 100%; z-index: 10;" src="files/box-6-c.jpg" alt="" class="growImage"></a></div>
   </section>
-<<<<<<< HEAD
   <?
    echo "new change";
+   echo "some new changes";
   ?>
-=======
-  
-  
-  <?
-  echo "some new changes";
-  ?>
->>>>>>> c86ed3fb4bce04100ce31fe8a5225cfdbe065092
